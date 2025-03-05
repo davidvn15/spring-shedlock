@@ -15,4 +15,4 @@ spring:
     init:
       mode: always
 server:
-  port: 8021
+  port: 8020
